@@ -8,6 +8,7 @@ A native PC port of **Animal Forest e+ (Dōbutsu no Mori e+)** for Nintendo Game
 * To build and run this port, you must legally dump your own copy of the *Animal Forest e+* (Japan) ISO (`GAEJ01`) for runtime asset extraction.
 
 ## 🙏 Credits & Acknowledgments
+* **[Cuyler](https://github.com/Cuyler36):** Special thanks for pioneering the architectural structure and methodology for GameCube PC ports (such as `ACGC-PC-Port`), which serves as the blueprint for this project.
 * **[ACreTeam (afe-decomp)](https://github.com/ACreTeam/afe-decomp):** Massive thanks to the ACreTeam for their foundational work on the game's decompilation and reverse engineering efforts. This port builds upon the structural insights provided by their research.
 * **Community Contributors:** Everyone helping map out memory addresses, rendering pipelines, and game logic.
 
