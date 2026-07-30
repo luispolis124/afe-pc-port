@@ -2,14 +2,15 @@
 
 A native PC port of **Animal Forest e+ (Dōbutsu no Mori e+)** for Nintendo GameCube, utilizing modern hardware APIs and a cleanroom architecture approach.
 
-## ⚠️ Disclaimer
-* This repository contains **only source code, build scripts, and platform adaptation layers**. 
+## ⚠️ Disclaimer & Educational Scope
+* This repository contains **only custom adaptation layers, rewritten modules, and modern build scripts** created independently for study, research, and entertainment purposes.
+* **No original scripts, binary routines, or copyrighted files from external decompilation repositories (such as `afe-decomp`) were directly copied or duplicated.** The project takes architectural inspiration from reverse engineering documentation strictly for educational analysis of 128-bit game engines.
 * **No copyrighted assets, ROMs, audio, textures, or proprietary Nintendo binaries are hosted here.**
 * To build and run this port, you must legally dump your own copy of the *Animal Forest e+* (Japan) ISO (`GAEJ01`) for runtime asset extraction.
 
 ## 🙏 Credits & Acknowledgments
 * **[Cuyler](https://github.com/Cuyler36):** Special thanks for pioneering the architectural structure and methodology for GameCube PC ports (such as `ACGC-PC-Port`), which serves as the blueprint for this project.
-* **[ACreTeam (afe-decomp)](https://github.com/ACreTeam/afe-decomp):** Massive thanks to the ACreTeam for their foundational work on the game's decompilation and reverse engineering efforts. This port builds upon the structural insights provided by their research.
+* **[ACreTeam (afe-decomp)](https://github.com/ACreTeam/afe-decomp):** Massive thanks to the ACreTeam for their foundational public documentation on the game's reverse engineering efforts, which inspired our independent cleanroom implementation.
 * **Community Contributors:** Everyone helping map out memory addresses, rendering pipelines, and game logic.
 
 ## Requirements
