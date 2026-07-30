@@ -20,7 +20,7 @@ A native PC port of **Animal Forest e+ (Dōbutsu no Mori e+)** for Nintendo Game
 ## Building from Source
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/afe-pc-port.git](https://github.com/SEU-USUARIO/afe-pc-port.git)
+   git clone [https://github.com/SEU-USUARIO/afe-pc-port.git](https://github.com/luispolis124/afe-pc-port.git)
    cd afe-pc-port
 
 ```
